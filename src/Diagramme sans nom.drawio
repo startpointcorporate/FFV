@@ -8,7 +8,7 @@
           <mxGeometry height="1239" width="200" x="1300" y="41" as="geometry" />
         </mxCell>
         <mxCell id="Jt1PFBBkZQO4AW-nEgbr-3" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&amp;nbsp;STRUCTURATION &amp;amp; FONDATIONS" vertex="1">
-          <mxGeometry height="770" width="1550" x="10" y="80" as="geometry" />
+          <mxGeometry height="770" width="1590" x="10" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Jt1PFBBkZQO4AW-nEgbr-4" parent="Jt1PFBBkZQO4AW-nEgbr-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Define POC functional scope" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="20" as="geometry" />
@@ -172,34 +172,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jt1PFBBkZQO4AW-nEgbr-57" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Technical Foundation" vertex="1">
-          <mxGeometry height="460" width="1310" x="10" y="850" as="geometry" />
+          <mxGeometry height="460" width="1590" x="10" y="850" as="geometry" />
         </mxCell>
         <mxCell id="Jt1PFBBkZQO4AW-nEgbr-58" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="WEEK1" vertex="1">
           <mxGeometry height="1270" width="1670" x="-60" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-60" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="MAUI Shell" vertex="1">
-          <mxGeometry height="60" width="120" x="1390" y="80" as="geometry" />
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MAUI Shell" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-61" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Navigation structure" vertex="1">
-          <mxGeometry height="60" width="120" x="1390" y="150" as="geometry" />
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Navigation structure" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="950" as="geometry" />
         </mxCell>
-        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-62" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="MSAL authentication" vertex="1">
-          <mxGeometry height="60" width="120" x="1390" y="220" as="geometry" />
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MSAL authentication" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-63" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="BFF client&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="120" x="1390" y="290" as="geometry" />
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BFF client&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-64" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Dataverse client&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="120" x="1390" y="360" as="geometry" />
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Dataverse client&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="1160" as="geometry" />
         </mxCell>
-        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-65" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Copilot Studio stub" vertex="1">
-          <mxGeometry height="60" width="120" x="1390" y="430" as="geometry" />
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Copilot Studio stub" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="1230" as="geometry" />
         </mxCell>
-        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-66" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="OpenTelemetry pipeline" vertex="1">
-          <mxGeometry height="60" width="120" x="1390" y="500" as="geometry" />
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OpenTelemetry pipeline" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="1300" as="geometry" />
         </mxCell>
-        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-67" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Feature flag pipeline" vertex="1">
-          <mxGeometry height="60" width="120" x="1390" y="570" as="geometry" />
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Feature flag pipeline" vertex="1">
+          <mxGeometry height="60" width="120" x="1360" y="1370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
