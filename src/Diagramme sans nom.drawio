@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Page-1" id="WBHqu8YIB1wh23INtyc2">
-    <mxGraphModel dx="1525" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2052" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,6 +200,9 @@
         </mxCell>
         <mxCell id="Jt1PFBBkZQO4AW-nEgbr-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Feature flag pipeline" vertex="1">
           <mxGeometry height="60" width="120" x="1360" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-69" edge="1" parent="1" source="Jt1PFBBkZQO4AW-nEgbr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Jt1PFBBkZQO4AW-nEgbr-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
