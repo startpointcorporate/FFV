@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
-          <mxGeometry height="200" width="200" x="40" y="40" as="geometry" />
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sonepar" vertex="1">
+          <mxGeometry height="520" width="200" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-3" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="STRUCTURATION &amp;amp; FONDATIONS" vertex="1">
+          <mxGeometry height="440" width="770" x="10" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
