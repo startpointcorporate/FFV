@@ -177,6 +177,18 @@
         <mxCell id="Jt1PFBBkZQO4AW-nEgbr-58" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="WEEK1" vertex="1">
           <mxGeometry height="1560" width="1670" x="-60" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-70" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="PR review" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-71" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Invariant validation" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="906" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-72" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Coupling control" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt1PFBBkZQO4AW-nEgbr-74" parent="Jt1PFBBkZQO4AW-nEgbr-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Contract enforcement" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="1100" as="geometry" />
+        </mxCell>
         <mxCell id="Jt1PFBBkZQO4AW-nEgbr-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MAUI Shell" vertex="1">
           <mxGeometry height="60" width="120" x="1360" y="880" as="geometry" />
         </mxCell>
